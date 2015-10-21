@@ -1,6 +1,6 @@
-name: null
+name: Testsitenew
 favicon: null
-layout_spectrum: 0.5071362853050232
+layout_spectrum: 1
 typography_spectrum: 0.9501255026552826
 cta:
   domain: null
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.8009615633636713
+  brandStrength: 1
   lightness: 0.5607232437469065
   saturation: 0.8967145932838321
   rhythmicContrast: 0.9324189990293235
